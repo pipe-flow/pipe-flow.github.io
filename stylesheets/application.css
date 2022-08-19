@@ -6300,7 +6300,7 @@ tbody.collapse.in {
   padding-left: 7px;
   text-align: left;
 }
-.selection-donate i {
+.selection-donate .selection {
   background-color: #d8d8d8;
   color: #1b1f23;
   font-style: normal;
@@ -6309,4 +6309,10 @@ tbody.collapse.in {
 
 .rules h2 {
 text-align: center;
+}
+
+.paypal {
+  color: #1c699d;
+  font-size: 17px;
+  font-weight: bold;
 }
